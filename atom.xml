@@ -4,7 +4,7 @@
   <title><![CDATA[Rémi Péron's Blog]]></title>
   <link href="http://rperon.github.com/blog/atom.xml" rel="self"/>
   <link href="http://rperon.github.com/blog/"/>
-  <updated>2012-08-14T17:31:13+02:00</updated>
+  <updated>2012-08-14T18:05:12+02:00</updated>
   <id>http://rperon.github.com/blog/</id>
   <author>
     <name><![CDATA[Rémi Peron]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test2]]></title>
+    <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://rperon.github.com/blog/blog/2012/08/14/test2/"/>
     <updated>2012-08-14T14:15:00+02:00</updated>
     <id>http://rperon.github.com/blog/blog/2012/08/14/test2</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hello World !</p>
 ]]></content>
   </entry>
   
